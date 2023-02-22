@@ -1,0 +1,10 @@
+src/main/java/com/baeldung/openapi/api/ApiUtil.java
+src/main/java/com/baeldung/openapi/api/CitiesApi.java
+src/main/java/com/baeldung/openapi/api/CitiesApiController.java
+src/main/java/com/baeldung/openapi/api/CitiesApiDelegate.java
+src/main/java/com/baeldung/openapi/api/PetsApi.java
+src/main/java/com/baeldung/openapi/api/PetsApiController.java
+src/main/java/com/baeldung/openapi/api/PetsApiDelegate.java
+src/main/java/com/baeldung/openapi/model/CityDto.java
+src/main/java/com/baeldung/openapi/model/Error.java
+src/main/java/com/baeldung/openapi/model/Pet.java
